@@ -29,7 +29,7 @@ Hi there! 👋 I'm Sahasrayan, a **Full-Stack Developer** with a passion for cre
 ---
 
 ## 📊 GitHub Stats
-![Sahasrayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahasrayan's&show_icons=true&theme=radical)
+![Sahasrayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
